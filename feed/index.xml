@@ -12,12 +12,12 @@
 	<atom:link href="https://shidooshaart.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://shidooshaart.github.io/portfolio</link>
 	<description>Art</description>
-	<lastBuildDate>Thu, 03 Feb 2022 14:41:23 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 May 2022 17:29:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 </channel>
 </rss>
